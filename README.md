@@ -66,6 +66,6 @@ src/components/NoteModal.js Add/edit modal
 src/theme.js                Shared colors
 ```
 ## Proof App Works
-<img width="370" height="750" alt="Screenshot 2026-10-28 133543" src="https://github.com/user-attachments/assets/11de0366-89c3-43b9-adae-c0975d49a8dd" />
-<img width="370" height="750" alt="Screenshot 2026-10-28 133154" src="https://github.com/user-attachments/assets/64630935-a94d-4c0d-a6c2-e4a8a9c9a4af" />
+<img width="570" height="450" alt="Screenshot 2026-10-28 133543" src="https://github.com/user-attachments/assets/11de0366-89c3-43b9-adae-c0975d49a8dd" />
+<img width="570" height="450" alt="Screenshot 2026-10-28 133154" src="https://github.com/user-attachments/assets/64630935-a94d-4c0d-a6c2-e4a8a9c9a4af" />
 
